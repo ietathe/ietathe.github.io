@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ietathe.github.io/sitemap.html
+Sitemap: https://ietathe.github.io/app/sitemap.html
+Sitemap: https://ietathe.github.io/assets/sitemap.html
+Sitemap: https://ietathe.github.io/includes/sitemap.html
+Sitemap: https://ietathe.github.io/src/sitemap.html
